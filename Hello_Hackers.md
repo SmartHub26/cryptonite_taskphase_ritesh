@@ -9,7 +9,7 @@ Solution:
 This gives the flag for the next question.
 
 ### Question 2
-![alt text](.\images\Hello_Hackers\2.png)
+![alt text](./images/Hello_Hackers/2.png)
 Solution:       
 ### command: 
 `hello hackers`
