@@ -1,4 +1,4 @@
-## Pondering Paths
+## COMPREHENDING COMMANDS
 ### Question 1
 
 ![alt text](./images/Comprehending_Commands/1q.png)
