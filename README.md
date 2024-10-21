@@ -22,7 +22,7 @@ Following modules of [pwn.college](https://pwn.college/) have been solved within
 
 • [Perceiving Permissions](https://github.com/SmartHub26/cryptonite_taskphase_ritesh/blob/master/Percieving_Permissions.md)
 
-• Untangling Users
+• [Untangling Users](https://github.com/SmartHub26/cryptonite_taskphase_ritesh/blob/master/Untangling_Users.md)
 
 • Chaining Commands
 
