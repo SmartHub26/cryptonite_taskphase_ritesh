@@ -1,4 +1,4 @@
-#                                                                           PWN COLLEGE
+#                                                                           PWN.COLLEGE
 
 ### pwn.college is an educational cybersecurity platform designed to train beginners. They have several great dojos to  train you in domains of cybersecurity, but we’ll focus on Linux Luminarium, designed to get you acquainted with navigating and utilizing the Linux command line.
 
@@ -24,6 +24,6 @@ Following modules of [pwn.college](https://pwn.college/) have been solved within
 
 • [Untangling Users](https://github.com/SmartHub26/cryptonite_taskphase_ritesh/blob/master/Untangling_Users.md)
 
-• Chaining Commands
+• [Chaining Commands](https://github.com/SmartHub26/cryptonite_taskphase_ritesh/blob/master/Chaining_Commands.md)
 
-• Pondering PATH
+• [Pondering PATH](https://github.com/SmartHub26/cryptonite_taskphase_ritesh/blob/master/Pondering_PATH.md)
