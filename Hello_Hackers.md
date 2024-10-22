@@ -8,6 +8,8 @@ Solution:
 
 This gives the flag for the next question.
 
+![alt text](./images/Hello_Hackers/s1.png)
+
 ### Question 2
 ![alt text](./images/Hello_Hackers/2.png)
 Solution:       
@@ -15,5 +17,7 @@ Solution:
 `hello hackers`
 
 This will get you the flag.
+
+![alt text](./images/Hello_Hackers/2ans.png)
 
 
