@@ -23,7 +23,7 @@ Solution:
 ### Question 3
 
 ![Image Error](./images/Untangling_Users/31.png)
-
+![Image Error](./images/Untangling_Users/q42.png)
 
 Solution:
 
@@ -34,7 +34,7 @@ Solution:
 ### Question 4
 
 ![Image Error](./images/Untangling_Users/q41.png)
-![Image Error](./images/Untangling_Users/q42.png)
+
 
 Solution:
 
